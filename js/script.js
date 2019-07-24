@@ -15,7 +15,7 @@ let quotes = [
   {
     quote: 'It\’s the possibility of having a dream come true that makes life interesting.',
     source: 'The Alchemist',
-    genre: 'Adventure fiction',
+    genre: 'Adventure fiction, Science',
     citation: '  Coelho, Paulo. The Alchemist. San Francisco: HarperSanFrancisco',
     year: '1998'
   },
